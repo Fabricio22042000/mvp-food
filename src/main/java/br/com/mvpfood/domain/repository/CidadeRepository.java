@@ -7,5 +7,4 @@ import br.com.mvpfood.domain.model.Cidade;
 
 @Repository
 public interface CidadeRepository extends JpaRepository<Cidade, Long>{
-
 }
